@@ -1,0 +1,250 @@
+country_code,country_name, local, ISO_2
+AD,Andorra,Andorra,ca
+AE,United Arab Emirates,دولة الإمارات العربيّة المتّحدة,ar
+AF,Afghanistan,"د افغانستان اسلامي دولتدولت اسلامی افغانستان, جمهوری اسلامی افغانستان","fa, ps"
+AG,Antigua and Barbuda,Antigua and Barbuda,en
+AI,Anguilla,Anguilla,en
+AL,Albania,Shqipëria,sq
+AM,Armenia,Հայաստան,hy
+AO,Angola,Angola,pt
+AQ,Antarctica,"Antarctica, Antártico, Antarctique, Антарктике","en, es, fr, ru[1]"
+AR,Argentina,Argentina,es
+AS,American Samoa,American Samoa,"en, sm"
+AT,Austria,Österreich,de
+AU,Australia,Australia,en
+AW,Aruba,Aruba,"nl, pap"
+AX,Aland Islands,Åland,sv
+AZ,Azerbaijan,Azərbaycan,az
+BA,Bosnia and Herzegovina,Bosna i Hercegovina,"bs, hr, sr"
+BB,Barbados,Barbados,en
+BD,Bangladesh,গণপ্রজাতন্ত্রী বাংলাদেশ,bn
+BE,Belgium,"België, Belgique, Belgien","nl, fr, de"
+BF,Burkina Faso,Burkina Faso,fr
+BG,Bulgaria,България,bg
+BH,Bahrain,البحرين,ar
+BI,Burundi,Burundi,fr
+BJ,Benin,Bénin,fr
+BL,Saint-Barthélemy,Saint-Barthélemy,fr
+BM,Bermuda,Bermuda,en
+BN,Brunei Darussalam,Brunei Darussalam,ms
+BO,Bolivia,"Bolivia, Bulibiya, Volívia, Wuliwya","es, qu, gn, ay"
+BQ,Caribbean Netherlands,Caribisch Nederland,nl
+BR,Brazil,Brasil,pt
+BS,Bahamas,Bahamas,en
+BT,Bhutan,འབྲུག་ཡུལ,dz
+BV,Bouvet Island,Bouvetøya,no
+BW,Botswana,Botswana,"en, tn"
+BY,Belarus,Беларусь,"be, ru"
+BZ,Belize,Belize,en
+CA,Canada,Canada,"en, fr"
+CC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,en
+CD,"Democratic Republic of the Congo (Congo-Kinshasa, former Zaire)",République Démocratique du Congo,fr
+CF,Centrafrican Republic,"République centrafricaine, Ködörösêse tî Bêafrîka","fr, sg"
+CG,Republic of the Congo (Congo-Brazzaville),République du Congo,fr
+CH,Switzerland,"Schweiz, Suisse, Svizzera, Svizra","de, fr, it, rm"
+CI,Côte d'Ivoire,Côte d'Ivoire,fr
+CK,Cook Islands,"Cook Islands, Kūki ʻĀirani","en, rar"
+CL,Chile,Chile,es
+CM,Cameroon,"Cameroun, Cameroon","fr, en"
+CN,China,中国,zh-hans
+CO,Colombia,Colombia,es
+CR,Costa Rica,Costa Rica,es
+CU,Cuba,Cuba,es
+CV,Cabo Verde,Cabo Verde,pt
+CW,Curaçao,Curaçao,"nl, en"
+CX,Christmas Island,Christmas Island,en
+CY,Cyprus,"Κύπρος, Kibris","el, tr"
+CZ,Czech Republic,Česká republika,cs
+DE,Germany,Deutschland,de
+DJ,Djibouti,"Djibouti, جيبوتي, Jabuuti, Gabuutih","fr, ar, so, aa"
+DK,Denmark,Danmark,da
+DM,Dominica,Dominica,en
+DO,Dominican Republic,República Dominicana,es
+DZ,Algeria,الجزائر,ar
+EC,Ecuador,Ecuador,es
+EE,Estonia,Eesti,et
+EG,Egypt,مصر,ar
+EH,Western Sahara,Sahara Occidental,"ar, es, fr"
+ER,Eritrea,"ኤርትራ, إرتريا, Eritrea","ti, ar, en"
+ES,Spain,España,"ast, ca, es, eu, gl"
+ET,Ethiopia,"ኢትዮጵያ, Itoophiyaa","am, om"
+FI,Finland,Suomi,"fi, sv, se"
+FJ,Fiji,Fiji,en
+FK,Falkland Islands,Falkland Islands,en
+FM,Micronesia (Federated States of),Micronesia,en
+FO,Faroe Islands,"Føroyar, Færøerne","fo, da"
+FR,France,France,fr
+GA,Gabon,Gabon,fr
+GB,United Kingdom,United Kingdom,"en, ga, cy, gd, kw"
+GD,Grenada,Grenada,en
+GE,Georgia,საქართველო,ka
+GF,French Guiana,Guyane française,fr
+GG,Guernsey,Guernsey,en
+GH,Ghana,Ghana,en
+GI,Gibraltar,Gibraltar,en
+GL,Greenland,"Kalaallit Nunaat, Grønland","kl, da"
+GM,The Gambia,The Gambia,en
+GN,Guinea,Guinée,fr
+GP,Guadeloupe,Guadeloupe,fr
+GQ,Equatorial Guinea,"Guiena ecuatorial, Guinée équatoriale, Guiné Equatorial","es, fr, pt"
+GR,Greece,Ελλάδα,el
+GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,en
+GT,Guatemala,Guatemala,es
+GU,Guam,"Guam, Guåhån","en, ch"
+GW,Guinea Bissau,Guiné-Bissau,pt
+GY,Guyana,Guyana,en
+HK,Hong Kong (SAR of China),"香港, Hong Kong","zh-hant, en"
+HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,en
+HN,Honduras,Honduras,es
+HR,Croatia,Hrvatska,hr
+HT,Haiti,"Haïti, Ayiti","fr, ht"
+HU,Hungary,Magyarország,hu
+ID,Indonesia,Indonesia,id
+IE,Ireland,"Ireland, Éire","en, ga"
+IL,Israel,ישראל,he
+IM,Isle of Man,Isle of Man,en
+IN,India,"भारत, India","hi, en"
+IO,British Indian Ocean Territory,British Indian Ocean Territory,en
+IQ,Iraq,"العراق, Iraq","ar, ku"
+IR,Iran,ایران,fa
+IS,Iceland,Ísland,is
+IT,Italy,Italia,"it, de, fr"
+JE,Jersey,Jersey,en
+JM,Jamaica,Jamaica,en
+JO,Jordan,الأُرْدُن,ar
+JP,Japan,日本,ja
+KE,Kenya,Kenya,"sw, en"
+KG,Kyrgyzstan,"Кыргызстан, Киргизия","ky, ru"
+KH,Cambodia,កម្ពុជា,km
+KI,Kiribati,Kiribati,en
+KM,Comores,"ﺍﻟﻘﻤﺮي, Comores, Komori","ar, fr, sw"
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,en
+KP,North Korea,북조선,ko
+KR,South Korea,대한민국,"ko, en"
+KW,Kuwait,الكويت,ar
+KY,Cayman Islands,Cayman Islands,en
+KZ,Kazakhstan,"Қазақстан, Казахстан","kk, ru"
+LA,Laos,ປະຊາຊົນລາວ,lo
+LB,Lebanon,"لبنان, Liban","ar, fr"
+LC,Saint Lucia,Saint Lucia,en
+LI,Liechtenstein,Liechtenstein,de
+LK,Sri Lanka,"ශ්‍රී ලංකා, இலங்கை","si, ta"
+LR,Liberia,Liberia,en
+LS,Lesotho,Lesotho,"en, st"
+LT,Lithuania,Lietuva,lt
+LU,Luxembourg,"Lëtzebuerg, Luxembourg, Luxemburg","lb, fr, de"
+LV,Latvia,Latvija,lv
+LY,Libya,ليبيا,ar
+MA,Morocco,"Maroc, ⵍⵎⵖⵔⵉⴱ, المغرب","fr, zgh, ar"
+MC,Monaco,Monaco,fr
+MD,Moldova,"Moldova, Молдавия","ro, ru, uk"
+ME,Montenegro,"Crna Gora, Црна Гора","srp, sr, hr, bs, sq"
+MF,Saint Martin (French part),Saint-Martin,fr
+MG,Madagascar,"Madagasikara, Madagascar","mg, fr"
+MH,Marshall Islands,Marshall Islands,"en, mh"
+MK,Macedonia (Former Yugoslav Republic of),Македонија,mk
+ML,Mali,Mali,fr
+MM,Myanmar,မြန်မာ,my
+MN,Mongolia,Монгол Улс,mn
+MO,Macao (SAR of China),"澳門, Macau","zh-hant, pt"
+MP,Northern Mariana Islands,Northern Mariana Islands,"en, ch"
+MQ,Martinique,Martinique,fr
+MR,Mauritania,"موريتانيا, Mauritanie","ar, fr"
+MS,Montserrat,Montserrat,en
+MT,Malta,Malta,"mt, en"
+MU,Mauritius,"Maurice, Mauritius","mfe, fr, en"
+MV,Maldives,,dv
+MW,Malawi,Malawi,"en, ny"
+MX,Mexico,México,es
+MY,Malaysia,,ms
+MZ,Mozambique,Mozambique,pt
+NA,Namibia,Namibia,"en, sf, de"
+NC,New Caledonia,Nouvelle-Calédonie,fr
+NE,Niger,Niger,fr
+NF,Norfolk Island,Norfolk Island,"en, pih"
+NG,Nigeria,Nigeria,en
+NI,Nicaragua,Nicaragua,es
+NL,The Netherlands,Nederland,nl
+NO,Norway,"Norge, Noreg","nb, nn, no, se"
+NP,Nepal,,ne
+NR,Nauru,Nauru,"na, en"
+NU,Niue,Niue,"niu, en"
+NZ,New Zealand,New Zealand,"mi, en"
+OM,Oman,سلطنة عُمان,ar
+PA,Panama,Panama,es
+PE,Peru,Perú,es
+PF,French Polynesia,Polynésie française,fr
+PG,Papua New Guinea,Papua New Guinea,"en, tpi, ho"
+PH,Philippines,Philippines,"en, tl"
+PK,Pakistan,پاکستان,"en, ur"
+PL,Poland,Polska,pl
+PM,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,fr
+PN,Pitcairn,Pitcairn,"en, pih"
+PR,Puerto Rico,Puerto Rico,"es, en"
+PS,Palestinian Territory,Palestinian Territory,"ar, he"
+PT,Portugal,Portugal,pt
+PW,Palau,Palau,"en, pau, ja, sov, tox"
+PY,Paraguay,Paraguay,"es, gn"
+QA,Qatar,قطر,ar
+RE,Reunion,La Réunion,fr
+RO,Romania,România,ro
+RS,Serbia,Србија,"sr, sr-Latn"
+RU,Russia,Россия,ru
+RW,Rwanda,Rwanda,"rw, fr, en"
+SA,Saudi Arabia,السعودية,ar
+SB,Solomon Islands,Solomon Islands,en
+SC,Seychelles,Seychelles,"fr, en, crs"
+SD,Sudan,السودان,"ar, en"
+SE,Sweden,Sverige,sv
+SG,Singapore,Singapore,"zh-hans, en, ms, ta"
+SH,Saint Helena,Saint Helena,en
+SI,Slovenia,Slovenija,sl
+SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen,no
+SK,Slovakia,Slovensko,sk
+SL,Sierra Leone,Sierra Leone,en
+SM,San Marino,San Marino,it
+SN,Sénégal,Sénégal,fr
+SO,Somalia,"Somalia, الصومال","so, ar"
+SR,Suriname,Suriname,nl
+ST,São Tomé and Príncipe,São Tomé e Príncipe,pt
+SS,South Sudan,South Sudan,en
+SV,El Salvador,El Salvador,es
+SX,Saint Martin (Dutch part),Sint Maarten,"nl, en"
+SY,Syria,"سوريا, Sūriyya",ar
+SZ,Swaziland,Swaziland,"en, ss"
+TC,Turks and Caicos Islands,Turks and Caicos Islands,en
+TD,Chad,"Tchad, تشاد","fr, ar"
+TF,French Southern and Antarctic Lands,Terres australes et antarctiques françaises,fr
+TG,Togo,Togo,fr
+TH,Thailand,ประเทศไทย,th
+TJ,Tajikistan,",","tg, ru"
+TK,Tokelau,Tokelau,"tkl, en, sm"
+TL,Timor-Leste,"Timor-Leste, Timor Lorosa'e","pt, tet"
+TM,Turkmenistan,Türkmenistan,tk
+TN,Tunisia,"تونس, Tunisie","ar, fr"
+TO,Tonga,Tonga,en
+TR,Turkey,Türkiye,tr
+TT,Trinidad and Tobago,Trinidad and Tobago,en
+TV,Tuvalu,Tuvalu,en
+TW,Taiwan,Taiwan,zh-hant
+TZ,Tanzania,Tanzania,"sw, en"
+UA,Ukraine,Україна,uk
+UG,Uganda,Uganda,"en, sw"
+UM,United States Minor Outlying Islands,United States Minor Outlying Islands,en
+US,United States of America,United States of America,en
+UY,Uruguay,Uruguay,es
+UZ,Uzbekistan,,"uz, kaa"
+VA,City of the Vatican,Città del Vaticano,it
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,en
+VE,Venezuela,Venezuela,es
+VG,British Virgin Islands,British Virgin Islands,en
+VI,United States Virgin Islands,United States Virgin Islands,en
+VN,Vietnam,Việt Nam,vi
+VU,Vanuatu,Vanuatu,"bi, en, fr"
+WF,Wallis and Futuna,Wallis-et-Futuna,fr
+WS,Samoa,Samoa,"sm, en"
+YE,Yemen,اليَمَن,ar
+YT,Mayotte,Mayotte,fr
+ZA,South Africa,South Africa,"en, af, st, tn, xh, zu"
+ZM,Zambia,Zambia,en
+ZW,Zimbabwe,Zimbabwe,"en, sn, nd"
