@@ -1,0 +1,1247 @@
+{
+   "AD": {
+      "country_name": "Andorra",
+      "local": "Andorra",
+      "ISO_2": "ca"
+   },
+   "AE": {
+      "country_name": "United Arab Emirates",
+      "local": "دولة الإمارات العربيّة المتّحدة",
+      "ISO_2": "ar"
+   },
+   "AF": {
+      "country_name": "Afghanistan",
+      "local": "د افغانستان اسلامي دولتدولت اسلامی افغانستان, جمهوری اسلامی افغانستان",
+      "ISO_2": "fa, ps"
+   },
+   "AG": {
+      "country_name": "Antigua and Barbuda",
+      "local": "Antigua and Barbuda",
+      "ISO_2": "en"
+   },
+   "AI": {
+      "country_name": "Anguilla",
+      "local": "Anguilla",
+      "ISO_2": "en"
+   },
+   "AL": {
+      "country_name": "Albania",
+      "local": "Shqipëria",
+      "ISO_2": "sq"
+   },
+   "AM": {
+      "country_name": "Armenia",
+      "local": "Հայաստան",
+      "ISO_2": "hy"
+   },
+   "AO": {
+      "country_name": "Angola",
+      "local": "Angola",
+      "ISO_2": "pt"
+   },
+   "AQ": {
+      "country_name": "Antarctica",
+      "local": "Antarctica, Antártico, Antarctique, Антарктике",
+      "ISO_2": "en, es, fr, ru[1]"
+   },
+   "AR": {
+      "country_name": "Argentina",
+      "local": "Argentina",
+      "ISO_2": "es"
+   },
+   "AS": {
+      "country_name": "American Samoa",
+      "local": "American Samoa",
+      "ISO_2": "en, sm"
+   },
+   "AT": {
+      "country_name": "Austria",
+      "local": "Österreich",
+      "ISO_2": "de"
+   },
+   "AU": {
+      "country_name": "Australia",
+      "local": "Australia",
+      "ISO_2": "en"
+   },
+   "AW": {
+      "country_name": "Aruba",
+      "local": "Aruba",
+      "ISO_2": "nl, pap"
+   },
+   "AX": {
+      "country_name": "Aland Islands",
+      "local": "Åland",
+      "ISO_2": "sv"
+   },
+   "AZ": {
+      "country_name": "Azerbaijan",
+      "local": "Azərbaycan",
+      "ISO_2": "az"
+   },
+   "BA": {
+      "country_name": "Bosnia and Herzegovina",
+      "local": "Bosna i Hercegovina",
+      "ISO_2": "bs, hr, sr"
+   },
+   "BB": {
+      "country_name": "Barbados",
+      "local": "Barbados",
+      "ISO_2": "en"
+   },
+   "BD": {
+      "country_name": "Bangladesh",
+      "local": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+      "ISO_2": "bn"
+   },
+   "BE": {
+      "country_name": "Belgium",
+      "local": "België, Belgique, Belgien",
+      "ISO_2": "nl, fr, de"
+   },
+   "BF": {
+      "country_name": "Burkina Faso",
+      "local": "Burkina Faso",
+      "ISO_2": "fr"
+   },
+   "BG": {
+      "country_name": "Bulgaria",
+      "local": "България",
+      "ISO_2": "bg"
+   },
+   "BH": {
+      "country_name": "Bahrain",
+      "local": "البحرين",
+      "ISO_2": "ar"
+   },
+   "BI": {
+      "country_name": "Burundi",
+      "local": "Burundi",
+      "ISO_2": "fr"
+   },
+   "BJ": {
+      "country_name": "Benin",
+      "local": "Bénin",
+      "ISO_2": "fr"
+   },
+   "BL": {
+      "country_name": "Saint-Barthélemy",
+      "local": "Saint-Barthélemy",
+      "ISO_2": "fr"
+   },
+   "BM": {
+      "country_name": "Bermuda",
+      "local": "Bermuda",
+      "ISO_2": "en"
+   },
+   "BN": {
+      "country_name": "Brunei Darussalam",
+      "local": "Brunei Darussalam",
+      "ISO_2": "ms"
+   },
+   "BO": {
+      "country_name": "Bolivia",
+      "local": "Bolivia, Bulibiya, Volívia, Wuliwya",
+      "ISO_2": "es, qu, gn, ay"
+   },
+   "BQ": {
+      "country_name": "Caribbean Netherlands",
+      "local": "Caribisch Nederland",
+      "ISO_2": "nl"
+   },
+   "BR": {
+      "country_name": "Brazil",
+      "local": "Brasil",
+      "ISO_2": "pt"
+   },
+   "BS": {
+      "country_name": "Bahamas",
+      "local": "Bahamas",
+      "ISO_2": "en"
+   },
+   "BT": {
+      "country_name": "Bhutan",
+      "local": "འབྲུག་ཡུལ",
+      "ISO_2": "dz"
+   },
+   "BV": {
+      "country_name": "Bouvet Island",
+      "local": "Bouvetøya",
+      "ISO_2": "no"
+   },
+   "BW": {
+      "country_name": "Botswana",
+      "local": "Botswana",
+      "ISO_2": "en, tn"
+   },
+   "BY": {
+      "country_name": "Belarus",
+      "local": "Беларусь",
+      "ISO_2": "be, ru"
+   },
+   "BZ": {
+      "country_name": "Belize",
+      "local": "Belize",
+      "ISO_2": "en"
+   },
+   "CA": {
+      "country_name": "Canada",
+      "local": "Canada",
+      "ISO_2": "en, fr"
+   },
+   "CC": {
+      "country_name": "Cocos (Keeling) Islands",
+      "local": "Cocos (Keeling) Islands",
+      "ISO_2": "en"
+   },
+   "CD": {
+      "country_name": "Democratic Republic of the Congo (Congo-Kinshasa, former Zaire)",
+      "local": "République Démocratique du Congo",
+      "ISO_2": "fr"
+   },
+   "CF": {
+      "country_name": "Centrafrican Republic",
+      "local": "République centrafricaine, Ködörösêse tî Bêafrîka",
+      "ISO_2": "fr, sg"
+   },
+   "CG": {
+      "country_name": "Republic of the Congo (Congo-Brazzaville)",
+      "local": "République du Congo",
+      "ISO_2": "fr"
+   },
+   "CH": {
+      "country_name": "Switzerland",
+      "local": "Schweiz, Suisse, Svizzera, Svizra",
+      "ISO_2": "de, fr, it, rm"
+   },
+   "CI": {
+      "country_name": "Côte d'Ivoire",
+      "local": "Côte d'Ivoire",
+      "ISO_2": "fr"
+   },
+   "CK": {
+      "country_name": "Cook Islands",
+      "local": "Cook Islands, Kūki ʻĀirani",
+      "ISO_2": "en, rar"
+   },
+   "CL": {
+      "country_name": "Chile",
+      "local": "Chile",
+      "ISO_2": "es"
+   },
+   "CM": {
+      "country_name": "Cameroon",
+      "local": "Cameroun, Cameroon",
+      "ISO_2": "fr, en"
+   },
+   "CN": {
+      "country_name": "China",
+      "local": "中国",
+      "ISO_2": "zh-hans"
+   },
+   "CO": {
+      "country_name": "Colombia",
+      "local": "Colombia",
+      "ISO_2": "es"
+   },
+   "CR": {
+      "country_name": "Costa Rica",
+      "local": "Costa Rica",
+      "ISO_2": "es"
+   },
+   "CU": {
+      "country_name": "Cuba",
+      "local": "Cuba",
+      "ISO_2": "es"
+   },
+   "CV": {
+      "country_name": "Cabo Verde",
+      "local": "Cabo Verde",
+      "ISO_2": "pt"
+   },
+   "CW": {
+      "country_name": "Curaçao",
+      "local": "Curaçao",
+      "ISO_2": "nl, en"
+   },
+   "CX": {
+      "country_name": "Christmas Island",
+      "local": "Christmas Island",
+      "ISO_2": "en"
+   },
+   "CY": {
+      "country_name": "Cyprus",
+      "local": "Κύπρος, Kibris",
+      "ISO_2": "el, tr"
+   },
+   "CZ": {
+      "country_name": "Czech Republic",
+      "local": "Česká republika",
+      "ISO_2": "cs"
+   },
+   "DE": {
+      "country_name": "Germany",
+      "local": "Deutschland",
+      "ISO_2": "de"
+   },
+   "DJ": {
+      "country_name": "Djibouti",
+      "local": "Djibouti, جيبوتي, Jabuuti, Gabuutih",
+      "ISO_2": "fr, ar, so, aa"
+   },
+   "DK": {
+      "country_name": "Denmark",
+      "local": "Danmark",
+      "ISO_2": "da"
+   },
+   "DM": {
+      "country_name": "Dominica",
+      "local": "Dominica",
+      "ISO_2": "en"
+   },
+   "DO": {
+      "country_name": "Dominican Republic",
+      "local": "República Dominicana",
+      "ISO_2": "es"
+   },
+   "DZ": {
+      "country_name": "Algeria",
+      "local": "الجزائر",
+      "ISO_2": "ar"
+   },
+   "EC": {
+      "country_name": "Ecuador",
+      "local": "Ecuador",
+      "ISO_2": "es"
+   },
+   "EE": {
+      "country_name": "Estonia",
+      "local": "Eesti",
+      "ISO_2": "et"
+   },
+   "EG": {
+      "country_name": "Egypt",
+      "local": "مصر",
+      "ISO_2": "ar"
+   },
+   "EH": {
+      "country_name": "Western Sahara",
+      "local": "Sahara Occidental",
+      "ISO_2": "ar, es, fr"
+   },
+   "ER": {
+      "country_name": "Eritrea",
+      "local": "ኤርትራ, إرتريا, Eritrea",
+      "ISO_2": "ti, ar, en"
+   },
+   "ES": {
+      "country_name": "Spain",
+      "local": "España",
+      "ISO_2": "ast, ca, es, eu, gl"
+   },
+   "ET": {
+      "country_name": "Ethiopia",
+      "local": "ኢትዮጵያ, Itoophiyaa",
+      "ISO_2": "am, om"
+   },
+   "FI": {
+      "country_name": "Finland",
+      "local": "Suomi",
+      "ISO_2": "fi, sv, se"
+   },
+   "FJ": {
+      "country_name": "Fiji",
+      "local": "Fiji",
+      "ISO_2": "en"
+   },
+   "FK": {
+      "country_name": "Falkland Islands",
+      "local": "Falkland Islands",
+      "ISO_2": "en"
+   },
+   "FM": {
+      "country_name": "Micronesia (Federated States of)",
+      "local": "Micronesia",
+      "ISO_2": "en"
+   },
+   "FO": {
+      "country_name": "Faroe Islands",
+      "local": "Føroyar, Færøerne",
+      "ISO_2": "fo, da"
+   },
+   "FR": {
+      "country_name": "France",
+      "local": "France",
+      "ISO_2": "fr"
+   },
+   "GA": {
+      "country_name": "Gabon",
+      "local": "Gabon",
+      "ISO_2": "fr"
+   },
+   "GB": {
+      "country_name": "United Kingdom",
+      "local": "United Kingdom",
+      "ISO_2": "en, ga, cy, gd, kw"
+   },
+   "GD": {
+      "country_name": "Grenada",
+      "local": "Grenada",
+      "ISO_2": "en"
+   },
+   "GE": {
+      "country_name": "Georgia",
+      "local": "საქართველო",
+      "ISO_2": "ka"
+   },
+   "GF": {
+      "country_name": "French Guiana",
+      "local": "Guyane française",
+      "ISO_2": "fr"
+   },
+   "GG": {
+      "country_name": "Guernsey",
+      "local": "Guernsey",
+      "ISO_2": "en"
+   },
+   "GH": {
+      "country_name": "Ghana",
+      "local": "Ghana",
+      "ISO_2": "en"
+   },
+   "GI": {
+      "country_name": "Gibraltar",
+      "local": "Gibraltar",
+      "ISO_2": "en"
+   },
+   "GL": {
+      "country_name": "Greenland",
+      "local": "Kalaallit Nunaat, Grønland",
+      "ISO_2": "kl, da"
+   },
+   "GM": {
+      "country_name": "The Gambia",
+      "local": "The Gambia",
+      "ISO_2": "en"
+   },
+   "GN": {
+      "country_name": "Guinea",
+      "local": "Guinée",
+      "ISO_2": "fr"
+   },
+   "GP": {
+      "country_name": "Guadeloupe",
+      "local": "Guadeloupe",
+      "ISO_2": "fr"
+   },
+   "GQ": {
+      "country_name": "Equatorial Guinea",
+      "local": "Guiena ecuatorial, Guinée équatoriale, Guiné Equatorial",
+      "ISO_2": "es, fr, pt"
+   },
+   "GR": {
+      "country_name": "Greece",
+      "local": "Ελλάδα",
+      "ISO_2": "el"
+   },
+   "GS": {
+      "country_name": "South Georgia and the South Sandwich Islands",
+      "local": "South Georgia and the South Sandwich Islands",
+      "ISO_2": "en"
+   },
+   "GT": {
+      "country_name": "Guatemala",
+      "local": "Guatemala",
+      "ISO_2": "es"
+   },
+   "GU": {
+      "country_name": "Guam",
+      "local": "Guam, Guåhån",
+      "ISO_2": "en, ch"
+   },
+   "GW": {
+      "country_name": "Guinea Bissau",
+      "local": "Guiné-Bissau",
+      "ISO_2": "pt"
+   },
+   "GY": {
+      "country_name": "Guyana",
+      "local": "Guyana",
+      "ISO_2": "en"
+   },
+   "HK": {
+      "country_name": "Hong Kong (SAR of China)",
+      "local": "香港, Hong Kong",
+      "ISO_2": "zh-hant, en"
+   },
+   "HM": {
+      "country_name": "Heard Island and McDonald Islands",
+      "local": "Heard Island and McDonald Islands",
+      "ISO_2": "en"
+   },
+   "HN": {
+      "country_name": "Honduras",
+      "local": "Honduras",
+      "ISO_2": "es"
+   },
+   "HR": {
+      "country_name": "Croatia",
+      "local": "Hrvatska",
+      "ISO_2": "hr"
+   },
+   "HT": {
+      "country_name": "Haiti",
+      "local": "Haïti, Ayiti",
+      "ISO_2": "fr, ht"
+   },
+   "HU": {
+      "country_name": "Hungary",
+      "local": "Magyarország",
+      "ISO_2": "hu"
+   },
+   "ID": {
+      "country_name": "Indonesia",
+      "local": "Indonesia",
+      "ISO_2": "id"
+   },
+   "IE": {
+      "country_name": "Ireland",
+      "local": "Ireland, Éire",
+      "ISO_2": "en, ga"
+   },
+   "IL": {
+      "country_name": "Israel",
+      "local": "ישראל",
+      "ISO_2": "he"
+   },
+   "IM": {
+      "country_name": "Isle of Man",
+      "local": "Isle of Man",
+      "ISO_2": "en"
+   },
+   "IN": {
+      "country_name": "India",
+      "local": "भारत, India",
+      "ISO_2": "hi, en"
+   },
+   "IO": {
+      "country_name": "British Indian Ocean Territory",
+      "local": "British Indian Ocean Territory",
+      "ISO_2": "en"
+   },
+   "IQ": {
+      "country_name": "Iraq",
+      "local": "العراق, Iraq",
+      "ISO_2": "ar, ku"
+   },
+   "IR": {
+      "country_name": "Iran",
+      "local": "ایران",
+      "ISO_2": "fa"
+   },
+   "IS": {
+      "country_name": "Iceland",
+      "local": "Ísland",
+      "ISO_2": "is"
+   },
+   "IT": {
+      "country_name": "Italy",
+      "local": "Italia",
+      "ISO_2": "it, de, fr"
+   },
+   "JE": {
+      "country_name": "Jersey",
+      "local": "Jersey",
+      "ISO_2": "en"
+   },
+   "JM": {
+      "country_name": "Jamaica",
+      "local": "Jamaica",
+      "ISO_2": "en"
+   },
+   "JO": {
+      "country_name": "Jordan",
+      "local": "الأُرْدُن",
+      "ISO_2": "ar"
+   },
+   "JP": {
+      "country_name": "Japan",
+      "local": "日本",
+      "ISO_2": "ja"
+   },
+   "KE": {
+      "country_name": "Kenya",
+      "local": "Kenya",
+      "ISO_2": "sw, en"
+   },
+   "KG": {
+      "country_name": "Kyrgyzstan",
+      "local": "Кыргызстан, Киргизия",
+      "ISO_2": "ky, ru"
+   },
+   "KH": {
+      "country_name": "Cambodia",
+      "local": "កម្ពុជា",
+      "ISO_2": "km"
+   },
+   "KI": {
+      "country_name": "Kiribati",
+      "local": "Kiribati",
+      "ISO_2": "en"
+   },
+   "KM": {
+      "country_name": "Comores",
+      "local": "ﺍﻟﻘﻤﺮي, Comores, Komori",
+      "ISO_2": "ar, fr, sw"
+   },
+   "KN": {
+      "country_name": "Saint Kitts and Nevis",
+      "local": "Saint Kitts and Nevis",
+      "ISO_2": "en"
+   },
+   "KP": {
+      "country_name": "North Korea",
+      "local": "북조선",
+      "ISO_2": "ko"
+   },
+   "KR": {
+      "country_name": "South Korea",
+      "local": "대한민국",
+      "ISO_2": "ko, en"
+   },
+   "KW": {
+      "country_name": "Kuwait",
+      "local": "الكويت",
+      "ISO_2": "ar"
+   },
+   "KY": {
+      "country_name": "Cayman Islands",
+      "local": "Cayman Islands",
+      "ISO_2": "en"
+   },
+   "KZ": {
+      "country_name": "Kazakhstan",
+      "local": "Қазақстан, Казахстан",
+      "ISO_2": "kk, ru"
+   },
+   "LA": {
+      "country_name": "Laos",
+      "local": "ປະຊາຊົນລາວ",
+      "ISO_2": "lo"
+   },
+   "LB": {
+      "country_name": "Lebanon",
+      "local": "لبنان, Liban",
+      "ISO_2": "ar, fr"
+   },
+   "LC": {
+      "country_name": "Saint Lucia",
+      "local": "Saint Lucia",
+      "ISO_2": "en"
+   },
+   "LI": {
+      "country_name": "Liechtenstein",
+      "local": "Liechtenstein",
+      "ISO_2": "de"
+   },
+   "LK": {
+      "country_name": "Sri Lanka",
+      "local": "ශ්‍රී ලංකා, இலங்கை",
+      "ISO_2": "si, ta"
+   },
+   "LR": {
+      "country_name": "Liberia",
+      "local": "Liberia",
+      "ISO_2": "en"
+   },
+   "LS": {
+      "country_name": "Lesotho",
+      "local": "Lesotho",
+      "ISO_2": "en, st"
+   },
+   "LT": {
+      "country_name": "Lithuania",
+      "local": "Lietuva",
+      "ISO_2": "lt"
+   },
+   "LU": {
+      "country_name": "Luxembourg",
+      "local": "Lëtzebuerg, Luxembourg, Luxemburg",
+      "ISO_2": "lb, fr, de"
+   },
+   "LV": {
+      "country_name": "Latvia",
+      "local": "Latvija",
+      "ISO_2": "lv"
+   },
+   "LY": {
+      "country_name": "Libya",
+      "local": "ليبيا",
+      "ISO_2": "ar"
+   },
+   "MA": {
+      "country_name": "Morocco",
+      "local": "Maroc, ⵍⵎⵖⵔⵉⴱ, المغرب",
+      "ISO_2": "fr, zgh, ar"
+   },
+   "MC": {
+      "country_name": "Monaco",
+      "local": "Monaco",
+      "ISO_2": "fr"
+   },
+   "MD": {
+      "country_name": "Moldova",
+      "local": "Moldova, Молдавия",
+      "ISO_2": "ro, ru, uk"
+   },
+   "ME": {
+      "country_name": "Montenegro",
+      "local": "Crna Gora, Црна Гора",
+      "ISO_2": "srp, sr, hr, bs, sq"
+   },
+   "MF": {
+      "country_name": "Saint Martin (French part)",
+      "local": "Saint-Martin",
+      "ISO_2": "fr"
+   },
+   "MG": {
+      "country_name": "Madagascar",
+      "local": "Madagasikara, Madagascar",
+      "ISO_2": "mg, fr"
+   },
+   "MH": {
+      "country_name": "Marshall Islands",
+      "local": "Marshall Islands",
+      "ISO_2": "en, mh"
+   },
+   "MK": {
+      "country_name": "Macedonia (Former Yugoslav Republic of)",
+      "local": "Македонија",
+      "ISO_2": "mk"
+   },
+   "ML": {
+      "country_name": "Mali",
+      "local": "Mali",
+      "ISO_2": "fr"
+   },
+   "MM": {
+      "country_name": "Myanmar",
+      "local": "မြန်မာ",
+      "ISO_2": "my"
+   },
+   "MN": {
+      "country_name": "Mongolia",
+      "local": "Монгол Улс",
+      "ISO_2": "mn"
+   },
+   "MO": {
+      "country_name": "Macao (SAR of China)",
+      "local": "澳門, Macau",
+      "ISO_2": "zh-hant, pt"
+   },
+   "MP": {
+      "country_name": "Northern Mariana Islands",
+      "local": "Northern Mariana Islands",
+      "ISO_2": "en, ch"
+   },
+   "MQ": {
+      "country_name": "Martinique",
+      "local": "Martinique",
+      "ISO_2": "fr"
+   },
+   "MR": {
+      "country_name": "Mauritania",
+      "local": "موريتانيا, Mauritanie",
+      "ISO_2": "ar, fr"
+   },
+   "MS": {
+      "country_name": "Montserrat",
+      "local": "Montserrat",
+      "ISO_2": "en"
+   },
+   "MT": {
+      "country_name": "Malta",
+      "local": "Malta",
+      "ISO_2": "mt, en"
+   },
+   "MU": {
+      "country_name": "Mauritius",
+      "local": "Maurice, Mauritius",
+      "ISO_2": "mfe, fr, en"
+   },
+   "MV": {
+      "country_name": "Maldives",
+      "local": "",
+      "ISO_2": "dv"
+   },
+   "MW": {
+      "country_name": "Malawi",
+      "local": "Malawi",
+      "ISO_2": "en, ny"
+   },
+   "MX": {
+      "country_name": "Mexico",
+      "local": "México",
+      "ISO_2": "es"
+   },
+   "MY": {
+      "country_name": "Malaysia",
+      "local": "",
+      "ISO_2": "ms"
+   },
+   "MZ": {
+      "country_name": "Mozambique",
+      "local": "Mozambique",
+      "ISO_2": "pt"
+   },
+   "NA": {
+      "country_name": "Namibia",
+      "local": "Namibia",
+      "ISO_2": "en, sf, de"
+   },
+   "NC": {
+      "country_name": "New Caledonia",
+      "local": "Nouvelle-Calédonie",
+      "ISO_2": "fr"
+   },
+   "NE": {
+      "country_name": "Niger",
+      "local": "Niger",
+      "ISO_2": "fr"
+   },
+   "NF": {
+      "country_name": "Norfolk Island",
+      "local": "Norfolk Island",
+      "ISO_2": "en, pih"
+   },
+   "NG": {
+      "country_name": "Nigeria",
+      "local": "Nigeria",
+      "ISO_2": "en"
+   },
+   "NI": {
+      "country_name": "Nicaragua",
+      "local": "Nicaragua",
+      "ISO_2": "es"
+   },
+   "NL": {
+      "country_name": "The Netherlands",
+      "local": "Nederland",
+      "ISO_2": "nl"
+   },
+   "NO": {
+      "country_name": "Norway",
+      "local": "Norge, Noreg",
+      "ISO_2": "nb, nn, no, se"
+   },
+   "NP": {
+      "country_name": "Nepal",
+      "local": "",
+      "ISO_2": "ne"
+   },
+   "NR": {
+      "country_name": "Nauru",
+      "local": "Nauru",
+      "ISO_2": "na, en"
+   },
+   "NU": {
+      "country_name": "Niue",
+      "local": "Niue",
+      "ISO_2": "niu, en"
+   },
+   "NZ": {
+      "country_name": "New Zealand",
+      "local": "New Zealand",
+      "ISO_2": "mi, en"
+   },
+   "OM": {
+      "country_name": "Oman",
+      "local": "سلطنة عُمان",
+      "ISO_2": "ar"
+   },
+   "PA": {
+      "country_name": "Panama",
+      "local": "Panama",
+      "ISO_2": "es"
+   },
+   "PE": {
+      "country_name": "Peru",
+      "local": "Perú",
+      "ISO_2": "es"
+   },
+   "PF": {
+      "country_name": "French Polynesia",
+      "local": "Polynésie française",
+      "ISO_2": "fr"
+   },
+   "PG": {
+      "country_name": "Papua New Guinea",
+      "local": "Papua New Guinea",
+      "ISO_2": "en, tpi, ho"
+   },
+   "PH": {
+      "country_name": "Philippines",
+      "local": "Philippines",
+      "ISO_2": "en, tl"
+   },
+   "PK": {
+      "country_name": "Pakistan",
+      "local": "پاکستان",
+      "ISO_2": "en, ur"
+   },
+   "PL": {
+      "country_name": "Poland",
+      "local": "Polska",
+      "ISO_2": "pl"
+   },
+   "PM": {
+      "country_name": "Saint Pierre and Miquelon",
+      "local": "Saint-Pierre-et-Miquelon",
+      "ISO_2": "fr"
+   },
+   "PN": {
+      "country_name": "Pitcairn",
+      "local": "Pitcairn",
+      "ISO_2": "en, pih"
+   },
+   "PR": {
+      "country_name": "Puerto Rico",
+      "local": "Puerto Rico",
+      "ISO_2": "es, en"
+   },
+   "PS": {
+      "country_name": "Palestinian Territory",
+      "local": "Palestinian Territory",
+      "ISO_2": "ar, he"
+   },
+   "PT": {
+      "country_name": "Portugal",
+      "local": "Portugal",
+      "ISO_2": "pt"
+   },
+   "PW": {
+      "country_name": "Palau",
+      "local": "Palau",
+      "ISO_2": "en, pau, ja, sov, tox"
+   },
+   "PY": {
+      "country_name": "Paraguay",
+      "local": "Paraguay",
+      "ISO_2": "es, gn"
+   },
+   "QA": {
+      "country_name": "Qatar",
+      "local": "قطر",
+      "ISO_2": "ar"
+   },
+   "RE": {
+      "country_name": "Reunion",
+      "local": "La Réunion",
+      "ISO_2": "fr"
+   },
+   "RO": {
+      "country_name": "Romania",
+      "local": "România",
+      "ISO_2": "ro"
+   },
+   "RS": {
+      "country_name": "Serbia",
+      "local": "Србија",
+      "ISO_2": "sr, sr-Latn"
+   },
+   "RU": {
+      "country_name": "Russia",
+      "local": "Россия",
+      "ISO_2": "ru"
+   },
+   "RW": {
+      "country_name": "Rwanda",
+      "local": "Rwanda",
+      "ISO_2": "rw, fr, en"
+   },
+   "SA": {
+      "country_name": "Saudi Arabia",
+      "local": "السعودية",
+      "ISO_2": "ar"
+   },
+   "SB": {
+      "country_name": "Solomon Islands",
+      "local": "Solomon Islands",
+      "ISO_2": "en"
+   },
+   "SC": {
+      "country_name": "Seychelles",
+      "local": "Seychelles",
+      "ISO_2": "fr, en, crs"
+   },
+   "SD": {
+      "country_name": "Sudan",
+      "local": "السودان",
+      "ISO_2": "ar, en"
+   },
+   "SE": {
+      "country_name": "Sweden",
+      "local": "Sverige",
+      "ISO_2": "sv"
+   },
+   "SG": {
+      "country_name": "Singapore",
+      "local": "Singapore",
+      "ISO_2": "zh-hans, en, ms, ta"
+   },
+   "SH": {
+      "country_name": "Saint Helena",
+      "local": "Saint Helena",
+      "ISO_2": "en"
+   },
+   "SI": {
+      "country_name": "Slovenia",
+      "local": "Slovenija",
+      "ISO_2": "sl"
+   },
+   "SJ": {
+      "country_name": "Svalbard and Jan Mayen",
+      "local": "Svalbard and Jan Mayen",
+      "ISO_2": "no"
+   },
+   "SK": {
+      "country_name": "Slovakia",
+      "local": "Slovensko",
+      "ISO_2": "sk"
+   },
+   "SL": {
+      "country_name": "Sierra Leone",
+      "local": "Sierra Leone",
+      "ISO_2": "en"
+   },
+   "SM": {
+      "country_name": "San Marino",
+      "local": "San Marino",
+      "ISO_2": "it"
+   },
+   "SN": {
+      "country_name": "Sénégal",
+      "local": "Sénégal",
+      "ISO_2": "fr"
+   },
+   "SO": {
+      "country_name": "Somalia",
+      "local": "Somalia, الصومال",
+      "ISO_2": "so, ar"
+   },
+   "SR": {
+      "country_name": "Suriname",
+      "local": "Suriname",
+      "ISO_2": "nl"
+   },
+   "ST": {
+      "country_name": "São Tomé and Príncipe",
+      "local": "São Tomé e Príncipe",
+      "ISO_2": "pt"
+   },
+   "SS": {
+      "country_name": "South Sudan",
+      "local": "South Sudan",
+      "ISO_2": "en"
+   },
+   "SV": {
+      "country_name": "El Salvador",
+      "local": "El Salvador",
+      "ISO_2": "es"
+   },
+   "SX": {
+      "country_name": "Saint Martin (Dutch part)",
+      "local": "Sint Maarten",
+      "ISO_2": "nl, en"
+   },
+   "SY": {
+      "country_name": "Syria",
+      "local": "سوريا, Sūriyya",
+      "ISO_2": "ar"
+   },
+   "SZ": {
+      "country_name": "Swaziland",
+      "local": "Swaziland",
+      "ISO_2": "en, ss"
+   },
+   "TC": {
+      "country_name": "Turks and Caicos Islands",
+      "local": "Turks and Caicos Islands",
+      "ISO_2": "en"
+   },
+   "TD": {
+      "country_name": "Chad",
+      "local": "Tchad, تشاد",
+      "ISO_2": "fr, ar"
+   },
+   "TF": {
+      "country_name": "French Southern and Antarctic Lands",
+      "local": "Terres australes et antarctiques françaises",
+      "ISO_2": "fr"
+   },
+   "TG": {
+      "country_name": "Togo",
+      "local": "Togo",
+      "ISO_2": "fr"
+   },
+   "TH": {
+      "country_name": "Thailand",
+      "local": "ประเทศไทย",
+      "ISO_2": "th"
+   },
+   "TJ": {
+      "country_name": "Tajikistan",
+      "local": ",",
+      "ISO_2": "tg, ru"
+   },
+   "TK": {
+      "country_name": "Tokelau",
+      "local": "Tokelau",
+      "ISO_2": "tkl, en, sm"
+   },
+   "TL": {
+      "country_name": "Timor-Leste",
+      "local": "Timor-Leste, Timor Lorosa'e",
+      "ISO_2": "pt, tet"
+   },
+   "TM": {
+      "country_name": "Turkmenistan",
+      "local": "Türkmenistan",
+      "ISO_2": "tk"
+   },
+   "TN": {
+      "country_name": "Tunisia",
+      "local": "تونس, Tunisie",
+      "ISO_2": "ar, fr"
+   },
+   "TO": {
+      "country_name": "Tonga",
+      "local": "Tonga",
+      "ISO_2": "en"
+   },
+   "TR": {
+      "country_name": "Turkey",
+      "local": "Türkiye",
+      "ISO_2": "tr"
+   },
+   "TT": {
+      "country_name": "Trinidad and Tobago",
+      "local": "Trinidad and Tobago",
+      "ISO_2": "en"
+   },
+   "TV": {
+      "country_name": "Tuvalu",
+      "local": "Tuvalu",
+      "ISO_2": "en"
+   },
+   "TW": {
+      "country_name": "Taiwan",
+      "local": "Taiwan",
+      "ISO_2": "zh-hant"
+   },
+   "TZ": {
+      "country_name": "Tanzania",
+      "local": "Tanzania",
+      "ISO_2": "sw, en"
+   },
+   "UA": {
+      "country_name": "Ukraine",
+      "local": "Україна",
+      "ISO_2": "uk"
+   },
+   "UG": {
+      "country_name": "Uganda",
+      "local": "Uganda",
+      "ISO_2": "en, sw"
+   },
+   "UM": {
+      "country_name": "United States Minor Outlying Islands",
+      "local": "United States Minor Outlying Islands",
+      "ISO_2": "en"
+   },
+   "US": {
+      "country_name": "United States of America",
+      "local": "United States of America",
+      "ISO_2": "en"
+   },
+   "UY": {
+      "country_name": "Uruguay",
+      "local": "Uruguay",
+      "ISO_2": "es"
+   },
+   "UZ": {
+      "country_name": "Uzbekistan",
+      "local": "",
+      "ISO_2": "uz, kaa"
+   },
+   "VA": {
+      "country_name": "City of the Vatican",
+      "local": "Città del Vaticano",
+      "ISO_2": "it"
+   },
+   "VC": {
+      "country_name": "Saint Vincent and the Grenadines",
+      "local": "Saint Vincent and the Grenadines",
+      "ISO_2": "en"
+   },
+   "VE": {
+      "country_name": "Venezuela",
+      "local": "Venezuela",
+      "ISO_2": "es"
+   },
+   "VG": {
+      "country_name": "British Virgin Islands",
+      "local": "British Virgin Islands",
+      "ISO_2": "en"
+   },
+   "VI": {
+      "country_name": "United States Virgin Islands",
+      "local": "United States Virgin Islands",
+      "ISO_2": "en"
+   },
+   "VN": {
+      "country_name": "Vietnam",
+      "local": "Việt Nam",
+      "ISO_2": "vi"
+   },
+   "VU": {
+      "country_name": "Vanuatu",
+      "local": "Vanuatu",
+      "ISO_2": "bi, en, fr"
+   },
+   "WF": {
+      "country_name": "Wallis and Futuna",
+      "local": "Wallis-et-Futuna",
+      "ISO_2": "fr"
+   },
+   "WS": {
+      "country_name": "Samoa",
+      "local": "Samoa",
+      "ISO_2": "sm, en"
+   },
+   "YE": {
+      "country_name": "Yemen",
+      "local": "اليَمَن",
+      "ISO_2": "ar"
+   },
+   "YT": {
+      "country_name": "Mayotte",
+      "local": "Mayotte",
+      "ISO_2": "fr"
+   },
+   "ZA": {
+      "country_name": "South Africa",
+      "local": "South Africa",
+      "ISO_2": "en, af, st, tn, xh, zu"
+   },
+   "ZM": {
+      "country_name": "Zambia",
+      "local": "Zambia",
+      "ISO_2": "en"
+   },
+   "ZW": {
+      "country_name": "Zimbabwe",
+      "local": "Zimbabwe",
+      "ISO_2": "en, sn, nd"
+   }
+}
